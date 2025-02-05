@@ -19,22 +19,22 @@
 
 ```swift
 class Developer {
-    let name = "Riani Destianti"
-    let education = "Software Engineering Student"
-    let location = "Bandung, Indonesia"
+    val name = "Riani Destianti"
+    val education = "Software Engineering Student"
+    val location = "Bandung, Indonesia"
     
-    let interests = [
+    val interests = listOf(
         "Mobile Development",
-        "UI/UX Design",
+        "Machine Learning",
         "Web Development"
-    ]
+    )
     
-    let skills = [
-        "Mobile": ["Flutter", "Kotlin"],
-        "Backend": ["PHP", "Laravel", "MySQL"],
-        "Frontend": ["JavaScript", "Bootstrap"],
-        "Other": ["Python", "C#", "Arduino"]
-    ]
+    val skills = mapOf(
+        "Mobile" to listOf("Flutter", "Kotlin"),
+        "Backend" to listOf("PHP", "Laravel", "MySQL"),
+        "Frontend" to listOf("JavaScript", "Bootstrap"),
+        "Other" to listOf("Python", "C#", "Arduino")
+    )
 }
 ```
 
