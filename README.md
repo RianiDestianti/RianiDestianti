@@ -80,7 +80,7 @@ Passionate about emerging technologies and the transformative potential of machi
   <a href="https://www.instagram.com/rianidstiantii/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/riani-destianti/">
+  <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
