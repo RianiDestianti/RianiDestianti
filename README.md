@@ -1,92 +1,62 @@
 <h1 align="center">Hi there, I'm Riani Destianti! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Developer;Full+Stack+Developer+in+Progress" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <div align="center">
-  <b>📚 Software Engineering Student at SMK 11 Bandung</b><br>
-  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
+  🏫 *SMK 11 Bandung - RPL* | 🚀 *Passionate About Coding*
 </div>
 
 ---
 
-<h2>👩‍💻 About Me</h2>
+<h2>💫 About Me</h2>
 
-```swift
-class Developer {
-    let name = "Riani Destianti"
-    let education = "Software Engineering Student"
-    let location = "Bandung, Indonesia"
-    
-    let interests = [
-        "Mobile Development",
-        "UI/UX Design",
-        "Web Development"
-    ]
-    
-    let skills = [
-        "Mobile": ["Flutter", "Kotlin"],
-        "Backend": ["PHP", "Laravel", "MySQL"],
-        "Frontend": ["JavaScript", "Bootstrap"],
-        "Other": ["Python", "C#", "Arduino"]
-    ]
-}
-```
+- 🌱 Currently learning *software development & database management*
+- 🔥 Passionate about *coding, SQL databases, and web development*
+- 💡 Exploring *MariaDB, SQL Server, and software engineering concepts*
+- 🏢 Interested in bridging *academic learning with real-world industry experiences*
+- 🛍️ Running my own *online store* alongside my coding journey
 
-<h2>🛠️ Technologies & Tools</h2>
-
-<div align="center">
-  <!-- Mobile Development -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <br>
-  
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <br>
-  
-  <!-- Other Skills -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-</div>
-
-<h2>🌟 Currently</h2>
-
-- 📱 Learning mobile app development with Flutter & Kotlin
-- 💻 Building web applications with Laravel
-- 🎨 Exploring UI/UX design principles
-- 🚀 Working on personal projects to enhance my skills
-
-<h2>🤝 Connect With Me</h2>
+<h2>🔧 Tech Stack</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/rianidstiantii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/riani-detistianti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+</p>
+
+<h2>🌟 Goals</h2>
+
+- ✅ Strengthen *backend development & database optimization*
+- 🚀 Work on *real-world projects & industry collaboration*
+- 📚 Keep improving *problem-solving & coding skills*
+
+<h2>📫 Let's Connect!</h2>
+
+<p align="center">
+<a href="https://www.instagram.com/rianidstiantii/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/riani-detistianti/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 <div align="center">
-  <b>💫 Learning, coding, and growing every day!</b>
+  <b>💙 Always open to collaborations, learning, and sharing knowledge! Let's build something awesome together. 🚀</b>
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
