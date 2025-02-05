@@ -87,6 +87,3 @@ class Developer {
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
