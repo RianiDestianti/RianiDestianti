@@ -37,49 +37,36 @@ fun main() {
 - 🔥 Deeply passionate about **mobile app development** with **Kotlin** and **Flutter**
 - 📱 Building beautiful, responsive apps with modern UI/UX principles
 - 🌱 Currently mastering **Jetpack Compose** and **Flutter state management**
-- 💡 Exploring **Firebase**, **RESTful APIs**, and **clean architecture**
-- 🚀 Working on personal projects to enhance my mobile development portfolio
-- 🏢 Seeking opportunities to create impactful mobile solutions
+- 💡 Exploring **RESTful APIs**, and **clean architecture**
+- 🚀 Working on personal projects to enhance my development portfolio
+- 🏢 Seeking opportunities to create impactful solutions
 - 🛍️ Running an online store while building my tech career
 
-<h2>🔧 Tech Stack</h2>
+<h2>⚡ Technology Arsenal</h2>
 
-<h3>Mobile Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-</p>
-
-<h3>Full Stack Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<h3>Other Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-</p>
-
-<h2>📱 Featured Mobile Projects</h2>
-
-- 🎯 **MyFitnessPal Clone** - A fitness tracking app built with Kotlin and Jetpack Compose
-- 🛒 **E-commerce App** - Cross-platform shopping app using Flutter and Firebase
-- 📚 **Study Companion** - Educational app with Flutter featuring offline-first architecture
-
-<h2>🌟 Current Goals</h2>
-
-- 📱 Master **Kotlin Coroutines** and **Flow**
-- 🎯 Contribute to open-source **Flutter packages**
-- 🚀 Build and publish apps to **Play Store**
-- 📚 Learn **SwiftUI** for iOS development
-- 💡 Explore **Flutter web** capabilities
+<div align="center">
+  
+  <!-- Backend Technologies -->
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=black" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL"/>
+  
+  <!-- Frontend Technologies -->
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" alt="Bootstrap"/>
+  
+  <!-- Mobile Development -->
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black" alt="Flutter"/>
+  
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python"/>
+  
+  <!-- IoT -->
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white&labelColor=black" alt="Arduino"/>
+  
+</div>
 
 <h2>📫 Let's Connect!</h2>
 
@@ -93,7 +80,7 @@ fun main() {
 </p>
 
 <div align="center">
-  <b>💙 Passionate about creating beautiful, performant mobile apps! Let's build the next great app together! 🚀</b>
+  <b>💙 Passionate about creating beautiful, performant applications! Let's build something amazing together! 🚀</b>
 </div>
 
 ---
