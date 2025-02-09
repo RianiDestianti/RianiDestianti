@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <b>📚 Software Engineering Student at SMK 11 Bandung</b><br>
+  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
   <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
 </div>
 
