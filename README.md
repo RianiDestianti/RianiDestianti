@@ -30,10 +30,16 @@ class Developer {
     )
     
     val skills = mapOf(
-        "Mobile" to listOf("Flutter", "Kotlin"),
+        "Mobile" to listOf("Flutter", "Kotlin", "React Native"),
         "Backend" to listOf("PHP", "Laravel", "MySQL"),
-        "Frontend" to listOf("JavaScript", "Bootstrap"),
+        "Frontend" to listOf("HTML5", "CSS3", "JavaScript", "Bootstrap"),
         "Other" to listOf("Python", "C#", "Arduino")
+    )
+    
+    val primaryFocus = mapOf(
+        "Mobile" to "Flutter & React Native Development",
+        "Web" to "Full Stack Development",
+        "Learning" to "Machine Learning & AI"
     )
 }
 ```
