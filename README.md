@@ -1,79 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320">
-  <style>
-    .badge {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      font-weight: bold;
-    }
-    .badge-group {
-      transform: translate(0, 40px);
-    }
-  </style>
+<h1 align="center">Hi there, I'm Riani Destianti! 👋</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
+</p>
+
+<div align="center">
+  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
+  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
+</div>
+
+---
+
+<h2>👩‍💻 About Me</h2>
+
+```swift
+class Developer {
+    val name = "Riani Destianti"
+    val education = "Software Engineering Student"
+    val location = "Bandung, Indonesia"
+    
+    val interests = listOf(
+        "Mobile Development",
+        "Machine Learning",
+        "Web Development"
+    )
+    
+    val skills = mapOf(
+        "Mobile" to listOf("Flutter", "Kotlin"),
+        "Backend" to listOf("PHP", "Laravel", "MySQL"),
+        "Frontend" to listOf("JavaScript", "Bootstrap"),
+        "Other" to listOf("Python", "C#", "Arduino")
+    )
+}
+```
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<div align="center">
+  <!-- Mobile Development -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <br>
   
-  <!-- Mobile Development Group -->
-  <g class="badge-group">
-    <g transform="translate(20, 0)">
-      <rect width="120" height="28" rx="4" fill="#02569B"/>
-      <text x="60" y="18" text-anchor="middle" fill="white" class="badge">Flutter</text>
-    </g>
-    <g transform="translate(150, 0)">
-      <rect width="120" height="28" rx="4" fill="#7F52FF"/>
-      <text x="60" y="18" text-anchor="middle" fill="white" class="badge">Kotlin</text>
-    </g>
-    <g transform="translate(280, 0)">
-      <rect width="140" height="28" rx="4" fill="#61DAFB"/>
-      <text x="70" y="18" text-anchor="middle" fill="white" class="badge">React Native</text>
-    </g>
-  </g>
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <br>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <br>
+  
+  <!-- Other Skills -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</div>
 
-  <!-- Web Development Group -->
-  <g class="badge-group" transform="translate(0, 40)">
-    <g transform="translate(20, 0)">
-      <rect width="120" height="28" rx="4" fill="#FF2D20"/>
-      <text x="60" y="18" text-anchor="middle" fill="white" class="badge">Laravel</text>
-    </g>
-    <g transform="translate(150, 0)">
-      <rect width="100" height="28" rx="4" fill="#777BB4"/>
-      <text x="50" y="18" text-anchor="middle" fill="white" class="badge">PHP</text>
-    </g>
-    <g transform="translate(260, 0)">
-      <rect width="120" height="28" rx="4" fill="#4479A1"/>
-      <text x="60" y="18" text-anchor="middle" fill="white" class="badge">MySQL</text>
-    </g>
-  </g>
+<h2>🌟 Currently</h2>
 
-  <!-- Frontend Group -->
-  <g class="badge-group" transform="translate(0, 80)">
-    <g transform="translate(20, 0)">
-      <rect width="140" height="28" rx="4" fill="#F7DF1E"/>
-      <text x="70" y="18" text-anchor="middle" fill="black" class="badge">JavaScript</text>
-    </g>
-    <g transform="translate(170, 0)">
-      <rect width="130" height="28" rx="4" fill="#7952B3"/>
-      <text x="65" y="18" text-anchor="middle" fill="white" class="badge">Bootstrap</text>
-    </g>
-    <g transform="translate(310, 0)">
-      <rect width="100" height="28" rx="4" fill="#E34F26"/>
-      <text x="50" y="18" text-anchor="middle" fill="white" class="badge">HTML</text>
-    </g>
-    <g transform="translate(420, 0)">
-      <rect width="100" height="28" rx="4" fill="#1572B6"/>
-      <text x="50" y="18" text-anchor="middle" fill="white" class="badge">CSS</text>
-    </g>
-  </g>
+🌐 Tech Enthusiast Driven by Innovation
 
-  <!-- Other Skills Group -->
-  <g class="badge-group" transform="translate(0, 120)">
-    <g transform="translate(20, 0)">
-      <rect width="120" height="28" rx="4" fill="#3776AB"/>
-      <text x="60" y="18" text-anchor="middle" fill="white" class="badge">Python</text>
-    </g>
-    <g transform="translate(150, 0)">
-      <rect width="100" height="28" rx="4" fill="#239120"/>
-      <text x="50" y="18" text-anchor="middle" fill="white" class="badge">C#</text>
-    </g>
-    <g transform="translate(260, 0)">
-      <rect width="120" height="28" rx="4" fill="#00979D"/>
-      <text x="60" y="18" text-anchor="middle" fill="white" class="badge">Arduino</text>
-    </g>
-  </g>
-</svg>
+Passionate about emerging technologies and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
+
+- 🤖 Machine Learning: Fascinated by AI's ability to solve complex problems
+- 💡 Emerging Tech Trends: Staying ahead of the curve in technological innovations
+- 🧠 Adaptive Learning: Rapidly integrating new technological paradigms
+- 🚀 Future-Focused: Committed to understanding and leveraging next-generation technologies
+
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/rianidstiantii/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<div align="center">
+  <b>💫 Learning, coding, and growing every day!</b>
+</div>
+
+---
+
