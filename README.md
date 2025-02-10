@@ -22,26 +22,32 @@ class Developer {
     val name = "Riani Destianti"
     val education = "Software Engineering Student"
     val location = "Bandung, Indonesia"
-    
+
     val interests = listOf(
         "Mobile Development",
         "Machine Learning",
         "Web Development"
     )
-    
+
     val skills = mapOf(
         "Mobile" to listOf("Flutter", "Kotlin", "React Native"),
         "Backend" to listOf("PHP", "Laravel", "MySQL"),
         "Frontend" to listOf("HTML5", "CSS3", "JavaScript", "Bootstrap"),
         "Other" to listOf("Python", "C#", "Arduino")
     )
-    
+
     val primaryFocus = mapOf(
         "Mobile" to "Flutter, Kotlin & React Native Development",
         "Web" to "Full Stack Development",
         "Learning" to "Machine Learning & AI"
     )
 }
+
+// Fungsi main untuk menjalankan program
+fun main() {
+    val dev = Developer()
+}
+
 ```
 
 <h2>🛠️ Technologies & Tools</h2>
