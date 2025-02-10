@@ -37,7 +37,7 @@ class Developer {
     )
     
     val primaryFocus = mapOf(
-        "Mobile" to "Flutter & React Native Development",
+        "Mobile" to "Flutter, Kotlin & React Native Development",
         "Web" to "Full Stack Development",
         "Learning" to "Machine Learning & AI"
     )
