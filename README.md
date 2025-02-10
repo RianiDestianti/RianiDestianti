@@ -1,23 +1,109 @@
-<h1 align="center">Hi there, I'm Riani Destianti! 👋</h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
-</div>
+    @keyframes glow {
+      0% { box-shadow: 0 0 5px #00ADB5; }
+      50% { box-shadow: 0 0 20px #00ADB5; }
+      100% { box-shadow: 0 0 5px #00ADB5; }
+    }
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
-</p>
+    .container {
+      background: linear-gradient(135deg, #1a1a1a, #2d2d2d);
+      color: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      font-family: 'Montserrat', sans-serif;
+    }
 
-<div align="center">
-  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
-  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
-</div>
+    .tech-badge {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      margin: 0.25rem;
+      display: inline-block;
+      transition: all 0.3s ease;
+      animation: glow 3s infinite;
+    }
 
----
+    .tech-badge:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 20px #00ADB5;
+    }
 
-<h2>👩‍💻 About Me</h2>
+    .profile-section {
+      background: rgba(0, 173, 181, 0.1);
+      border-radius: 1rem;
+      padding: 1.5rem;
+      margin: 1rem 0;
+      animation: float 6s ease-in-out infinite;
+    }
 
-```swift
+    .code-block {
+      background: #2d2d2d;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      border-left: 4px solid #00ADB5;
+      font-family: 'Fira Code', monospace;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .code-block::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(0, 173, 181, 0.2),
+        transparent
+      );
+      animation: shine 3s infinite;
+    }
+
+    @keyframes shine {
+      to {
+        left: 100%;
+      }
+    }
+
+    .social-links a {
+      margin: 0 1rem;
+      transition: transform 0.3s ease;
+    }
+
+    .social-links a:hover {
+      transform: scale(1.2);
+    }
+
+    .currently-section li {
+      transition: all 0.3s ease;
+      padding: 0.5rem;
+      border-radius: 0.5rem;
+    }
+
+    .currently-section li:hover {
+      background: rgba(0, 173, 181, 0.1);
+      transform: translateX(10px);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Your existing content structure remains, but with added animations -->
+    <div class="profile-section">
+      <div class="code-block">
+        <pre><code>
 class Developer {
     val name = "Riani Destianti"
     val education = "Software Engineering Student"
@@ -28,68 +114,38 @@ class Developer {
         "Machine Learning",
         "Web Development"
     )
-    
-    val skills = mapOf(
-        "Mobile" to listOf("Flutter", "Kotlin"),
-        "Backend" to listOf("PHP", "Laravel", "MySQL"),
-        "Frontend" to listOf("JavaScript", "Bootstrap"),
-        "Other" to listOf("Python", "C#", "Arduino")
-    )
 }
-```
+        </code></pre>
+      </div>
+    </div>
 
-<h2>🛠️ Technologies & Tools</h2>
-<div align="center">
-  <!-- Mobile Development -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <br>
-  
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <br>
-  
-  <!-- Other Skills -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-</div>
+    <div class="tech-stack">
+      <!-- Mobile Development -->
+      <div class="tech-badge">Flutter</div>
+      <div class="tech-badge">Kotlin</div>
+      <div class="tech-badge">React Native</div>
+      
+      <!-- Web Development -->
+      <div class="tech-badge">Laravel</div>
+      <div class="tech-badge">PHP</div>
+      <div class="tech-badge">MySQL</div>
+      
+      <!-- Frontend -->
+      <div class="tech-badge">HTML5</div>
+      <div class="tech-badge">CSS3</div>
+      <div class="tech-badge">JavaScript</div>
+      <div class="tech-badge">Bootstrap</div>
+    </div>
 
-<h2>🌟 Currently</h2>
-
-🌐 Tech Enthusiast Driven by Innovation
-
-Passionate about emerging technologies and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
-
-- 🤖 Machine Learning: Fascinated by AI's ability to solve complex problems
-- 💡 Emerging Tech Trends: Staying ahead of the curve in technological innovations
-- 🧠 Adaptive Learning: Rapidly integrating new technological paradigms
-- 🚀 Future-Focused: Committed to understanding and leveraging next-generation technologies
-
-<h2>🤝 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.instagram.com/rianidstiantii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<div align="center">
-  <b>💫 Learning, coding, and growing every day!</b>
-</div>
-
----
-
+    <div class="currently-section">
+      <h2>🌟 Currently</h2>
+      <ul>
+        <li>🤖 Machine Learning Explorer</li>
+        <li>💡 Tech Trend Watcher</li>
+        <li>🧠 Continuous Learner</li>
+        <li>🚀 Future Builder</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
