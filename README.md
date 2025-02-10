@@ -18,6 +18,10 @@
 <h2>👩‍💻 About Me</h2>
 
 ```swift
+fun main() {
+    val dev = Developer()
+}
+
 class Developer {
     val name = "Riani Destianti"
     val education = "Software Engineering Student"
@@ -42,12 +46,6 @@ class Developer {
         "Learning" to "Machine Learning & AI"
     )
 }
-
-// Fungsi main untuk menjalankan program
-fun main() {
-    val dev = Developer()
-}
-
 ```
 
 <h2>🛠️ Technologies & Tools</h2>
