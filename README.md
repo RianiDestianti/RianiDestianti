@@ -1,189 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Riani Destianti - Interactive Profile</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+<h1 align="center">Hi there, I'm Riani Destianti! 👋</h1>
 
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: #0a192f;
-      color: #fff;
-      line-height: 1.6;
-      overflow-x: hidden;
-    }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
+</div>
 
-    #particles-js {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: 1;
-    }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
+</p>
 
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 2rem;
-      position: relative;
-      z-index: 2;
-    }
+<div align="center">
+  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
+  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
+</div>
 
-    h1, h2 {
-      text-align: center;
-      margin: 2rem 0;
-      background: linear-gradient(45deg, #00ADB5, #FF2D20);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      opacity: 0;
-      transform: translateY(20px);
-      animation: fadeInUp 0.6s ease forwards;
-    }
+---
 
-    .typing-text {
-      min-height: 72px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin: 2rem 0;
-    }
+<h2>👩‍💻 About Me</h2>
 
-    .card {
-      background: rgba(255, 255, 255, 0.05);
-      backdrop-filter: blur(10px);
-      border-radius: 15px;
-      padding: 2rem;
-      margin: 2rem 0;
-      transform-style: preserve-3d;
-      transform: perspective(1000px);
-      transition: all 0.3s ease;
-      opacity: 0;
-      animation: fadeIn 0.6s ease forwards;
-    }
-
-    .code-block {
-      background: #1a1a1a;
-      padding: 1.5rem;
-      border-radius: 10px;
-      overflow-x: auto;
-      position: relative;
-    }
-
-    .code-block::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(45deg, #00ADB5, #FF2D20);
-      opacity: 0.1;
-      pointer-events: none;
-    }
-
-    .tech-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 1rem;
-      margin: 2rem 0;
-    }
-
-    .tech-item {
-      background: rgba(255, 255, 255, 0.1);
-      padding: 1rem;
-      border-radius: 10px;
-      text-align: center;
-      transition: all 0.3s ease;
-      cursor: pointer;
-    }
-
-    .tech-item:hover {
-      transform: translateY(-5px);
-      background: rgba(255, 255, 255, 0.2);
-    }
-
-    .social-links {
-      display: flex;
-      justify-content: center;
-      gap: 1rem;
-      margin: 2rem 0;
-    }
-
-    .social-links a {
-      padding: 0.5rem 1rem;
-      border-radius: 5px;
-      transition: all 0.3s ease;
-      text-decoration: none;
-      color: #fff;
-    }
-
-    .social-links a:hover {
-      transform: translateY(-3px);
-    }
-
-    @keyframes fadeInUp {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    @keyframes fadeIn {
-      to {
-        opacity: 1;
-      }
-    }
-
-    .progress-bar {
-      width: 100%;
-      height: 8px;
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 4px;
-      margin: 1rem 0;
-      position: relative;
-      overflow: hidden;
-    }
-
-    .progress-bar::after {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      height: 100%;
-      width: 0;
-      background: linear-gradient(45deg, #00ADB5, #FF2D20);
-      animation: progressAnimation 1.5s ease forwards;
-    }
-
-    @keyframes progressAnimation {
-      to {
-        width: var(--progress);
-      }
-    }
-  </style>
-</head>
-<body>
-  <div id="particles-js"></div>
-  <div class="container">
-    <h1>Hi there, I'm Riani Destianti! 👋</h1>
-
-    <div class="typing-text">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
-    </div>
-
-    <div class="card" data-tilt data-tilt-max="5">
-      <h2>👩‍💻 About Me</h2>
-      <div class="code-block">
-        <pre><code>fun main() {
+```swift
+fun main() {
     val dev = Developer()
 }
 
@@ -210,116 +45,59 @@ class Developer {
         "Web" to "Full Stack Development",
         "Learning" to "Machine Learning & AI"
     )
-}</code></pre>
-      </div>
-    </div>
+}
+```
 
-    <div class="card" data-tilt data-tilt-max="5">
-      <h2>🛠️ Technologies & Tools</h2>
-      <div class="tech-grid">
-        <div class="tech-item" style="--progress: 90%">
-          Flutter
-          <div class="progress-bar"></div>
-        </div>
-        <div class="tech-item" style="--progress: 85%">
-          Kotlin
-          <div class="progress-bar"></div>
-        </div>
-        <div class="tech-item" style="--progress: 80%">
-          React Native
-          <div class="progress-bar"></div>
-        </div>
-        <div class="tech-item" style="--progress: 75%">
-          Laravel
-          <div class="progress-bar"></div>
-        </div>
-        <div class="tech-item" style="--progress: 85%">
-          MySQL
-          <div class="progress-bar"></div>
-        </div>
-        <div class="tech-item" style="--progress: 70%">
-          Python
-          <div class="progress-bar"></div>
-        </div>
-      </div>
-    </div>
+<h2>🛠️ Technologies & Tools</h2>
+<div align="center">
+  <!-- Mobile Development -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <br>
+  
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <br>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <br>
+  
+  <!-- Other Skills -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</div>
 
-    <div class="card" data-tilt data-tilt-max="5">
-      <h2>🌟 Currently</h2>
-      <ul>
-        <li>🤖 Machine Learning: Fascinated by AI's ability to solve complex problems</li>
-        <li>💡 Emerging Tech Trends: Staying ahead of the curve in technological innovations</li>
-        <li>🧠 Adaptive Learning: Rapidly integrating new technological paradigms</li>
-        <li>🚀 Future-Focused: Committed to understanding and leveraging next-generation technologies</li>
-      </ul>
-    </div>
+<h2>🌟 Currently</h2>
 
-    <div class="social-links">
-      <a href="https://www.instagram.com/rianidstiantii/" style="background: #E4405F">Instagram</a>
-      <a href="https://www.linkedin.com/in/riani-destianti-70504a323/" style="background: #0077B5">LinkedIn</a>
-    </div>
-  </div>
+🌐 Tech Enthusiast Driven by Innovation
 
-  <script>
-    particlesJS('particles-js', {
-      particles: {
-        number: { value: 80 },
-        color: { value: '#00ADB5' },
-        shape: { type: 'circle' },
-        opacity: { value: 0.5 },
-        size: { value: 3 },
-        line_linked: {
-          enable: true,
-          distance: 150,
-          color: '#00ADB5',
-          opacity: 0.4,
-          width: 1
-        },
-        move: {
-          enable: true,
-          speed: 2,
-          direction: 'none',
-          random: false,
-          straight: false,
-          out_mode: 'out',
-          bounce: false,
-        }
-      },
-      interactivity: {
-        detect_on: 'canvas',
-        events: {
-          onhover: { enable: true, mode: 'repulse' },
-          onclick: { enable: true, mode: 'push' },
-          resize: true
-        }
-      },
-      retina_detect: true
-    });
+Passionate about emerging technologies and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
 
-    VanillaTilt.init(document.querySelectorAll('.card'), {
-      max: 5,
-      speed: 400,
-      glare: true,
-      'max-glare': 0.2,
-    });
+- 🤖 Machine Learning: Fascinated by AI's ability to solve complex problems
+- 💡 Emerging Tech Trends: Staying ahead of the curve in technological innovations
+- 🧠 Adaptive Learning: Rapidly integrating new technological paradigms
+- 🚀 Future-Focused: Committed to understanding and leveraging next-generation technologies
 
-    // Animate cards on scroll
-    const cards = document.querySelectorAll('.card');
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            entry.target.style.opacity = '1';
-            entry.target.style.transform = 'translateY(0)';
-          }
-        });
-      },
-      { threshold: 0.1 }
-    );
+<h2>🤝 Connect With Me</h2>
 
-    cards.forEach(card => {
-      observer.observe(card);
-    });
-  </script>
-</body>
-</html>
+<p align="center">
+  <a href="https://www.instagram.com/rianidstiantii/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<div align="center">
+  <b>💫 Learning, coding, and growing every day!</b>
+</div>
+
+---
+
