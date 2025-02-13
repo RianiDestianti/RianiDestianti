@@ -1,27 +1,18 @@
-<h1 align="center">Hi there, I'm Riani Destianti! 👋</h1>
+import React, { useState, useEffect } from 'react';
+import { motion } from 'framer-motion';
+import { Globe, Book, Code, Radio, Star, User, Mail, Heart } from 'lucide-react';
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
-</div>
+const InteractiveProfile = () => {
+  const [isVisible, setIsVisible] = useState({
+    about: false,
+    skills: false,
+    tech: false,
+    currently: false
+  });
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
-</p>
+  const [activeTab, setActiveTab] = useState('about');
 
-<div align="center">
-  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
-  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
-</div>
-
----
-
-<h2>👩‍💻 About Me</h2>
-
-```swift
-fun main() {
-    val dev = Developer()
-}
-
+  const codeString = `
 class Developer {
     val name = "Riani Destianti"
     val education = "Software Engineering Student"
@@ -32,72 +23,199 @@ class Developer {
         "Machine Learning",
         "Web Development"
     )
+}`;
 
-    val skills = mapOf(
-        "Mobile" to listOf("Flutter", "Kotlin", "React Native"),
-        "Backend" to listOf("PHP", "Laravel", "MySQL"),
-        "Frontend" to listOf("HTML5", "CSS3", "JavaScript", "Bootstrap"),
-        "Other" to listOf("Python", "C#", "Arduino")
-    )
+  const technologies = {
+    Mobile: ["Flutter", "Kotlin", "React Native"],
+    Backend: ["PHP", "Laravel", "MySQL"],
+    Frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    Other: ["Python", "C#", "Arduino"]
+  };
 
-    val primaryFocus = mapOf(
-        "Mobile" to "Flutter, Kotlin & React Native Development",
-        "Web" to "Full Stack Development",
-        "Learning" to "Machine Learning & AI"
-    )
-}
-```
+  return (
+    <div className="max-w-4xl mx-auto p-6 bg-gray-50 rounded-lg shadow-xl">
+      {/* Header Section with Floating Animation */}
+      <motion.div 
+        initial={{ y: -20, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        className="text-center mb-8"
+      >
+        <h1 className="text-4xl font-bold bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text mb-4">
+          Hi there, I'm Riani Destianti! 👋
+        </h1>
+        <motion.div 
+          animate={{ y: [0, -10, 0] }}
+          transition={{ duration: 2, repeat: Infinity }}
+          className="text-xl text-gray-600"
+        >
+          Mobile App Development Enthusiast
+        </motion.div>
+      </motion.div>
 
-<h2>🛠️ Technologies & Tools</h2>
-<div align="center">
-  <!-- Mobile Development -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <br>
-  
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <br>
-  
-  <!-- Other Skills -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-</div>
+      {/* Interactive Navigation */}
+      <div className="flex justify-center space-x-4 mb-8">
+        {['about', 'skills', 'tech', 'currently'].map((tab) => (
+          <motion.button
+            key={tab}
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.95 }}
+            className={`px-4 py-2 rounded-lg ${
+              activeTab === tab 
+                ? 'bg-purple-500 text-white' 
+                : 'bg-gray-200 text-gray-700'
+            }`}
+            onClick={() => setActiveTab(tab)}
+          >
+            {tab.charAt(0).toUpperCase() + tab.slice(1)}
+          </motion.button>
+        ))}
+      </div>
 
-<h2>🌟 Currently</h2>
+      {/* Content Sections */}
+      <motion.div 
+        className="bg-white p-6 rounded-lg shadow-lg"
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+      >
+        {activeTab === 'about' && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.5 }}
+          >
+            <div className="bg-gray-800 text-gray-100 p-4 rounded-lg font-mono">
+              <pre>{codeString}</pre>
+            </div>
+          </motion.div>
+        )}
 
-🌐 Tech Enthusiast Driven by Innovation
+        {activeTab === 'skills' && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            className="space-y-4"
+          >
+            {Object.entries(technologies).map(([category, techs], index) => (
+              <motion.div
+                key={category}
+                initial={{ x: -20, opacity: 0 }}
+                animate={{ x: 0, opacity: 1 }}
+                transition={{ delay: index * 0.1 }}
+                className="mb-4"
+              >
+                <h3 className="text-xl font-bold mb-2">{category}</h3>
+                <div className="flex flex-wrap gap-2">
+                  {techs.map((tech) => (
+                    <motion.span
+                      key={tech}
+                      whileHover={{ scale: 1.1 }}
+                      className="px-3 py-1 bg-purple-100 text-purple-600 rounded-full"
+                    >
+                      {tech}
+                    </motion.span>
+                  ))}
+                </div>
+              </motion.div>
+            ))}
+          </motion.div>
+        )}
 
-Passionate about emerging technologies and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
+        {activeTab === 'tech' && (
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+            {['Flutter', 'Kotlin', 'React Native', 'Laravel', 'MySQL', 'Python'].map((tech) => (
+              <motion.div
+                key={tech}
+                whileHover={{ scale: 1.05 }}
+                className="p-4 bg-gradient-to-r from-purple-100 to-pink-100 rounded-lg text-center"
+              >
+                <h3 className="font-bold">{tech}</h3>
+                <motion.div
+                  animate={{ rotate: 360 }}
+                  transition={{ duration: 2, repeat: Infinity, ease: "linear" }}
+                  className="mt-2"
+                >
+                  <Code className="w-8 h-8 text-purple-500 mx-auto" />
+                </motion.div>
+              </motion.div>
+            ))}
+          </div>
+        )}
 
-- 🤖 Machine Learning: Fascinated by AI's ability to solve complex problems
-- 💡 Emerging Tech Trends: Staying ahead of the curve in technological innovations
-- 🧠 Adaptive Learning: Rapidly integrating new technological paradigms
-- 🚀 Future-Focused: Committed to understanding and leveraging next-generation technologies
+        {activeTab === 'currently' && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            className="space-y-6"
+          >
+            <motion.div
+              whileHover={{ scale: 1.02 }}
+              className="p-4 bg-gradient-to-r from-purple-50 to-pink-50 rounded-lg"
+            >
+              <h3 className="text-xl font-bold mb-4">🌟 Currently</h3>
+              <ul className="space-y-2">
+                <motion.li
+                  whileHover={{ x: 10 }}
+                  className="flex items-center space-x-2"
+                >
+                  <Star className="text-yellow-500" />
+                  <span>Learning Machine Learning & AI</span>
+                </motion.li>
+                <motion.li
+                  whileHover={{ x: 10 }}
+                  className="flex items-center space-x-2"
+                >
+                  <Globe className="text-blue-500" />
+                  <span>Building Mobile Apps with Flutter</span>
+                </motion.li>
+                <motion.li
+                  whileHover={{ x: 10 }}
+                  className="flex items-center space-x-2"
+                >
+                  <Book className="text-green-500" />
+                  <span>Studying Software Engineering</span>
+                </motion.li>
+              </ul>
+            </motion.div>
+          </motion.div>
+        )}
+      </motion.div>
 
-<h2>🤝 Connect With Me</h2>
+      {/* Social Links */}
+      <motion.div 
+        className="mt-8 flex justify-center space-x-4"
+        initial={{ y: 20, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ delay: 0.5 }}
+      >
+        <motion.a
+          href="https://www.instagram.com/rianidstiantii/"
+          whileHover={{ scale: 1.1 }}
+          className="p-2 bg-pink-500 text-white rounded-full"
+        >
+          <User className="w-6 h-6" />
+        </motion.a>
+        <motion.a
+          href="https://www.linkedin.com/in/riani-destianti-70504a323/"
+          whileHover={{ scale: 1.1 }}
+          className="p-2 bg-blue-500 text-white rounded-full"
+        >
+          <Mail className="w-6 h-6" />
+        </motion.a>
+      </motion.div>
 
-<p align="center">
-  <a href="https://www.instagram.com/rianidstiantii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+      {/* Footer */}
+      <motion.div 
+        className="mt-8 text-center text-gray-600"
+        animate={{ y: [0, -5, 0] }}
+        transition={{ duration: 2, repeat: Infinity }}
+      >
+        <p className="flex items-center justify-center">
+          Made with <Heart className="w-4 h-4 mx-1 text-red-500" /> by Riani
+        </p>
+      </motion.div>
+    </div>
+  );
+};
 
-<div align="center">
-  <b>💫 Learning, coding, and growing every day!</b>
-</div>
-
----
-
+export default InteractiveProfile;
