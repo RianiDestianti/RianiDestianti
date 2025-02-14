@@ -24,7 +24,7 @@ fun main() {
 
 class Developer {
     val name = "Riani Destianti"
-    val education = "Software Engineerin Student"
+    val education = "Software Engineering Student"
     val location = "Bandung, Indonesia"
 
     val interests = listOf(
