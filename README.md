@@ -33,7 +33,7 @@ class Developer {
         "Web Development"
     )
 
- val skills = mapOf(
+    val skills = mapOf(
         "Mobile" to listOf("Flutter", "Kotlin", "React Native"),
         "Backend" to listOf("PHP", "Laravel", "MySQL"),
         "Frontend" to listOf("HTML5", "CSS3", "JavaScript", "Bootstrap"),
