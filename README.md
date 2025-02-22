@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Riani Destianti! 👋</h1>
+## Hi there, I'm Riani Destianti! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
@@ -15,9 +15,8 @@
 
 ---
 
-<h2>👩‍💻 About Me</h2>
-
-```swift
+### 👩‍💻 About Me
+```kotlin
 fun main() {
     val dev = Developer()
 }
@@ -39,73 +38,43 @@ class Developer {
         "Frontend" to listOf("HTML5", "CSS3", "JavaScript", "Bootstrap"),
         "Other" to listOf("Python", "C#", "Arduino")
     )
-
-    val primaryFocus = mapOf(
-        "Mobile" to "Flutter, Kotlin & React Native Development",
-        "Web" to "Full Stack Development",
-        "Learning" to "Machine Learning & AI"
-    )
 }
 ```
 
-<h2>🛠️ Technologies & Tools</h2>
+### 🛠️ Technologies & Tools
 
-<h3>⚡ Programming Languages</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</div>
+#### ⚡ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,html,css,kotlin,python,js,php,cs" />
+</p>
 
-<h3>🔧 Frameworks & Libraries</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</div>
+#### 🔧 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flutter" />
+</p>
 
-<h3>🛠️ Development Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</div>
+#### 🛠️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,mysql,firebase,postman" />
+</p>
 
-<h2>🌟 Currently</h2>
+---
 
-🌐 Tech Enthusiast Driven by Innovation
+### 🌟 Currently
+- 🤖 Exploring **Machine Learning** & AI
+- 📱 Developing mobile apps using **Flutter & Kotlin**
+- 🚀 Learning **Full Stack Development**
 
-Passionate about emerging technologies and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
-
-- 🤖 Machine Learning: Fascinated by AI's ability to solve complex problems
-- 💡 Emerging Tech Trends: Staying ahead of the curve in technological innovations
-- 🧠 Adaptive Learning: Rapidly integrating new technological paradigms
-- 🚀 Future-Focused: Committed to understanding and leveraging next-generation technologies
-
-<h2>🤝 Connect With Me</h2>
-
+### 🤝 Connect With Me
 <p align="center">
   <a href="https://www.instagram.com/rianidstiantii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 <div align="center">
   <b>💫 Learning, coding, and growing every day!</b>
 </div>
-
----
-
