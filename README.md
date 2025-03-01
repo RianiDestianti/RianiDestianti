@@ -15,7 +15,7 @@
 
 ---
 
-<h2>👩‍💻 About e</h2>
+<h2>👩‍💻 About Me</h2>
 
 ```swift
 fun main() {
