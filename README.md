@@ -37,7 +37,63 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </div>
 
+<h2>📊 Most Used Languages</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF" alt="Riani's Most Used Languages" />
+</div>
+
+<div align="center">
+  <h3>Language Proficiency</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Dart-90%25-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0D1117" alt="Dart" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Kotlin-80%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0D1117" alt="Kotlin" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PHP-75%25-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0D1117" alt="PHP" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C%23-65%25-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0D1117" alt="C#" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>Framework Experience</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Flutter-★★★★★-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0D1117" alt="Flutter" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React_Native-★★★★☆-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Laravel-★★★★☆-FF2D20?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=0D1117" alt="Laravel" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=0D1117" alt="Node.js" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 <h2>🌟 Currently</h2>
 
 🌐 Tech Enthusiast Driven by Innovation
