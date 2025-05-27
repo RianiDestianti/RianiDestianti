@@ -13,11 +13,6 @@
   <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
 </div>
 
-<div align="center">
-  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
-  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
