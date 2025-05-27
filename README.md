@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello!+I'm+Riani+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Exploring+The+World+Of+Coding+%F0%9F%8C%8D" alt="Animated Heading" />
 </div>
@@ -24,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Girl"/>
 </div>
 
 ## 📈 Contribution Graph
@@ -91,3 +92,5 @@ Passionate about emerging technologies and the transformative potential of machi
 </div>
 
 ---
+
+
