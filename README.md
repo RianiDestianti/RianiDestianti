@@ -65,7 +65,7 @@ Passionate about emerging technologies and the transformative potential of machi
 - [x] Learning programming languages every day (In Progress!)
 - [ ] Participated in many training and competency programs
 
-## 🤝 Connect With Me
+<h2>🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/rianidstiantii/">
@@ -77,8 +77,9 @@ Passionate about emerging technologies and the transformative potential of machi
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>💫 Learning, coding, and growing every day!</b></em> 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <b>💫 Learning, coding, and growing every day!</b>
 </div>
+
+---
+
 
