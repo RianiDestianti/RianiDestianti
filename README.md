@@ -19,7 +19,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Girl"/>
 </div>
 
-## 📈 Contribution Graph
+<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #00ADB5;">
+  📈 Contribution Graph
+</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
