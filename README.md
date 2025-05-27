@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello!+I'm+Riani+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Exploring+The+World+Of+Coding+%F0%9F%8C%8D" alt="Animated Heading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=2000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hello!+I'm+Riani+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Exploring+The+World+Of+Coding+%F0%9F%8C%8D" alt="Animated Heading" />
 </div>
 
 <div align="center">
