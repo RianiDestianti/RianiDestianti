@@ -1,163 +1,119 @@
-# 🌟 Hi there, I'm Riani Destianti! 
+<h1 align="center">Hi there, I'm Riani Destianti! 👋</h1>
 
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Riani%20Destianti&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Development%20Enthusiast&descAlignY=51&descAlign=62)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Girl"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=🚀+Mobile+App+Development+Enthusiast;💫+Flutter+%26+React+Native+Developer;🌈+Learning+Full+Stack+%26+Machine+Learning;✨+Crafting+Digital+Experiences" alt="Typing SVG" />
+  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
+  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianiDestianti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RianiDestianti&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/RianiDestianti?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </div>
 
----
+## 🌟 Currently
 
-## 👩‍💻 About Me
+🌐 **Tech Enthusiast Driven by Innovation**
 
-<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-```javascript
-const riani = {
-    name: "Riani Destianti",
-    role: "Mobile App Developer",
-    education: "Software Engineering Student",
-    school: "SMKN 11 Bandung",
-    passion: ["Mobile Development", "UI/UX Design", "Machine Learning"],
-    currentFocus: "Building amazing mobile experiences",
-    motto: "Code. Create. Innovate. Repeat! ✨"
-};
-```
-
-<div align="center">
-
-### 🎯 **Software Engineering Student at SMKN 11 Bandung**
-*Crafting Mobile Experiences with Flutter & Kotlin*
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7F52FF)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
-
-### 🌐 Web Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
-
-### 💾 Languages & Database
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-
-### ☁️ Cloud & Tools
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-
-</div>
-
----
-
-## 🌟 Currently Working On
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=RianiDestianti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RianiDestianti&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="48%" />
-
-</div>
-
-### 🌐 Tech Enthusiast Driven by Innovation
-
-<img align="left" alt="Innovation" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-tutorial-thumb.gif">
-
-🚀 **Passionate about emerging technologies** and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
+Passionate about emerging technologies and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
 
 - 🤖 **Machine Learning**: Fascinated by AI's ability to solve complex problems
-- 💡 **Emerging Tech Trends**: Staying ahead of the curve in technological innovations  
+- 💡 **Emerging Tech Trends**: Staying ahead of the curve in technological innovations
 - 🧠 **Adaptive Learning**: Rapidly integrating new technological paradigms
-- 🌟 **Future-Focused**: Committed to understanding next-generation technologies
+- 🚀 **Future-Focused**: Committed to understanding and leveraging next-generation technologies
 
-<br clear="left"/>
+### 2025 Goals ✨
 
----
+- [ ] Getting into Machine Learning
+- [x] Code. Debug. Repeat – every day (In Progress!)
+- [x] Learn React (In Progress!)
+- [x] Learning programming languages every day (In Progress!)
+- [ ] Participated in many training and competency programs
 
-## 🎯 2025 Goals & Progress
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-### ✨ My Journey This Year
-
-```diff
-+ ✅ Code. Debug. Repeat – every day (In Progress!)
-+ ✅ Learn React (In Progress!)  
-+ ✅ Learning programming languages every day (In Progress!)
-- ⏳ Getting into Machine Learning
-- ⏳ Participated in many training and competency programs
-```
-
+  <img src="https://github-profile-trophy.vercel.app/?username=RianiDestianti&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
+## 📱 Featured Projects
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+  <a href="https://github.com/RianiDestianti/your-flutter-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RianiDestianti&repo=your-flutter-project&theme=tokyonight" alt="Flutter Project"/>
+  </a>
+  <a href="https://github.com/RianiDestianti/your-web-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RianiDestianti&repo=your-web-project&theme=tokyonight" alt="Web Project"/>
+  </a>
 </div>
 
----
+## 🤝 Connect With Me
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF" alt="Top Languages" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RianiDestianti&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF" alt="Wakatime Stats" width="48%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
+<p align="center">
+  <a href="https://www.instagram.com/rianidstiantii/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <div align="center">
-
-### 💫 Find me around the web 🌍
-
-<a href="https://www.instagram.com/rianidstiantii/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>💫 Learning, coding, and growing every day!</b></em> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 
 ---
 
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=75)
-
-### 💫 **"Learning, coding, and growing every day!"** 
-### 🌟 **Always open to interesting conversations and collaboration opportunities!**
-
-<img src="https://komarev.com/ghpvc/?username=RianiDestianti&style=for-the-badge&color=blueviolet" alt="Profile views" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=100&section=footer"/>
 </div>
