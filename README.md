@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Girl"/>
 </div>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #00ADB5;">
+<h2  style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #00ADB5;">
   📈 Contribution Graph
 </h2>
 
