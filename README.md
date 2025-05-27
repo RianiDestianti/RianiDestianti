@@ -13,6 +13,8 @@
   <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
 </div>
 
+## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
