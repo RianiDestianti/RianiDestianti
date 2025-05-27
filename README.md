@@ -37,6 +37,12 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </div>
 
+### 2024 Goals ✨
+- [ ] Contribute to 5 open source projects
+- [ ] Build and deploy 3 full-stack applications
+- [x] Learn TypeScript (In Progress!)
+- [ ] Get 100 GitHub followers
+- [ ] Attend a tech conference
 
 <h2>🌟 Currently</h2>
 
