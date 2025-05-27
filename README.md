@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Girl"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Flutter+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
 </div>
 
@@ -16,10 +20,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Girl"/>
-</div>
 
 ## 📈 Contribution Graph
 
