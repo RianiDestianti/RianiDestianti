@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
 </div>
 
-## 📈 Contribution Graph
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
