@@ -48,12 +48,12 @@ Passionate about emerging technologies and the transformative potential of machi
 - 🧠 Adaptive Learning: Rapidly integrating new technological paradigms
 - 🚀 Future-Focused: Committed to understanding and leveraging next-generation technologies
 
-  ### 2024 Goals ✨
-- [ ] Contribute to 5 open source projects
-- [ ] Build and deploy 3 full-stack applications
-- [x] Learn TypeScript (In Progress!)
-- [ ] Get 100 GitHub followers
-- [ ] Attend a tech conference
+  ### 2025 Goals ✨
+- [ ] Getting into Machine Learning
+- [x] Code. Debug. Repeat – every day (In Progress!)
+- [x] Learn React (In Progress!)
+- [x] Learning programming languages every day (In Progress!)
+- [ ] Participated in many training and competency programs
 
 <h2>🤝 Connect With Me</h2>
 
