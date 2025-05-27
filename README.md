@@ -11,10 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
 </p>
 
-<div align="center">
-  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
-  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
-</div>
+
 
 <br>
 
@@ -22,6 +19,11 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Girl"/>
 </div>
 
+
+<div align="center">
+  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
+  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
+</div>
 <br>
 
 <div align="center">
