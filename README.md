@@ -17,23 +17,10 @@
   <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianiDestianti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RianiDestianti&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## 🛠️ Technologies & Tools
@@ -78,23 +65,6 @@ Passionate about emerging technologies and the transformative potential of machi
 - [x] Learning programming languages every day (In Progress!)
 - [ ] Participated in many training and competency programs
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RianiDestianti&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-## 📱 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/RianiDestianti/your-flutter-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RianiDestianti&repo=your-flutter-project&theme=tokyonight" alt="Flutter Project"/>
-  </a>
-  <a href="https://github.com/RianiDestianti/your-web-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RianiDestianti&repo=your-web-project&theme=tokyonight" alt="Web Project"/>
-  </a>
-</div>
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -112,8 +82,3 @@ Passionate about emerging technologies and the transformative potential of machi
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=100&section=footer"/>
-</div>
