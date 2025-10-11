@@ -72,7 +72,7 @@ Passionate about emerging technologies and the transformative potential of machi
 
 - [ ] Getting into Machine Learning
 - [x] Code. Debug. Repeat – every day (In Progress!)
-- [x] Learn React (In Progress!)
+- [x] Learn React (In Progres!)
 - [x] Learning programming languages every day (In Progress!)
 - [ ] Participated in many training and competency program
 
