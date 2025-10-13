@@ -88,7 +88,7 @@ Passionate about emerging technologies and the transformative potential of machi
 </p>
 
 <div align="center">
-  <b>💫 Learning, coding, and growing every day!</b>
+  <b>💫 Learning, coding, and growing every daAy!</b>
 </div>
 
 ---
