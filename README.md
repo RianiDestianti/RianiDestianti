@@ -34,9 +34,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<div align="center">
 
 <table>
   <tr>
