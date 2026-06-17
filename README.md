@@ -28,23 +28,6 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 👩‍💻 About Me
-
-```javascript
-const riani = {
-  role: "Software Developer @ Sobat Teknologi",
-  location: "Bandung, Indonesia",
-  focus: ["Fullstack", "Mobile", "AI"],
-  currentlyLearning: "Machine Learning",
-  mindset: "Code. Debug. Repeat — every day.",
-};
-```
-
-- 🌐 I build **end-to-end web apps**, from database to UI
-- 📱 I craft **mobile experiences** with React Native
-- 🤖 I explore **AI & Machine Learning** to solve real problems
-- 🌱 Always learning something new, one commit at a time
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -86,25 +69,6 @@ const riani = {
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RianiDestianti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00ADB5&icon_color=00ADB5" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00ADB5" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RianiDestianti&theme=tokyonight&hide_border=true&background=1a1b27&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RianiDestianti&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
 
 ## 🌟 Currently
 
