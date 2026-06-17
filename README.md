@@ -75,11 +75,11 @@
 Currently working as a Software Developer at **Sobat Teknologi**, building real-world products across the stack while staying passionate about emerging technologies and machine learning. Day to day, I'm focused on:
 
 - 🌐 **Fullstack Development**: Building end-to-end web apps from database to UI
-- 📱 **Mobile Development**: Crafting mobile experiences with Flutter & Kotlin
+- 📱 **Mobile Development**: Crafting mobile experiences with React Native
 - 🤖 **AI Development**: Exploring machine learning to solve complex problems
 - 🚀 **Future-Focused**: Leveraging next-generation technologies in production
 
-### 2025 Goals ✨
+### 2026 Goals ✨
 
 - [ ] Become a Fullstack Engineer
 
