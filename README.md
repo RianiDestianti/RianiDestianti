@@ -9,18 +9,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Based_in-Bandung,_ID-00ADB5?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-00ADB5?style=flat&logo=handshake&logoColor=white" alt="Open to collaboration"/>
 </p>
 
 <div align="center">
   <b>💻 Software Developer at Sobat Teknologi</b><br>
   <i>Building Fullstack, Mobile & AI Solutions</i>
 </div>
-
-<p align="center">
-  Software developer focused on building reliable, end-to-end products —<br>
-  from clean backends and databases to polished web and mobile interfaces.
-</p>
 
 <br>
 
@@ -40,11 +34,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-<br>
+<h2>🛠️ Tech Stack</h2>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
 
 <table>
   <tr>
@@ -91,50 +82,26 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
     </td>
   </tr>
-  <tr>
-    <td align="right"><b>Tools & Workflow</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    </td>
-  </tr>
 </table>
 
 </div>
 
-<br>
+## 🌟 Currently
 
-<h2 align="center">🌟 What I'm Focused On</h2>
+💻 **Software Developer Driven by Innovation**
 
-<div align="center">
-  <i>Currently working as a Software Developer at <b>Sobat Teknologi</b> — building real-world products<br>across the stack while exploring machine learning and emerging technologies.</i>
-</div>
+Currently working as a Software Developer at **Sobat Teknologi**, building real-world products across the stack while staying passionate about emerging technologies and machine learning. Day to day, I'm focused on:
 
-<br>
+- 🌐 **Fullstack Development**: Building end-to-end web apps from database to UI
+- 📱 **Mobile Development**: Crafting mobile experiences with React Native
+- 🤖 **AI Development**: Exploring machine learning to solve complex problems
+- 🚀 **Future-Focused**: Leveraging next-generation technologies in production
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">🌐<br><b>Fullstack</b><br><sub>End-to-end web apps,<br>database to UI</sub></td>
-    <td align="center" width="25%">📱<br><b>Mobile</b><br><sub>Mobile experiences<br>with React Native</sub></td>
-    <td align="center" width="25%">🤖<br><b>AI / ML</b><br><sub>Machine learning to<br>solve real problems</sub></td>
-    <td align="center" width="25%">🚀<br><b>Future-Ready</b><br><sub>Modern tools shipped<br>to production</sub></td>
-  </tr>
-</table>
+### 2026 Goals ✨
 
-<br>
+- [ ] Become a Fullstack Engineer
 
-<h2 align="center">✨ 2026 Goal</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🎯_Become_a-Fullstack_Engineer-00ADB5?style=for-the-badge&labelColor=1a1b27" alt="2026 Goal"/>
-</div>
-
-<br>
-
-<h2 align="center">🤝 Connect With Me</h2>
+<h2>🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/rianidstiantii/">
