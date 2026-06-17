@@ -107,14 +107,7 @@ Currently working as a Software Developer at **Sobat Teknologi**, building real-
   <a href="https://www.instagram.com/rianidstianti/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/riani-destianti-70504a323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&animation=fadeIn" width="100%" alt="Footer"/>
-</div>
 
 <div align="center">
   <b>💫 Learning, coding, and growing every day!</b>
