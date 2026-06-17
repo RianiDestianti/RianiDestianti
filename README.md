@@ -9,12 +9,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RianiDestianti&label=Visitors&color=00ADB5&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Based_in-Bandung,_ID-00ADB5?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-00ADB5?style=flat&logo=handshake&logoColor=white" alt="Open to collaboration"/>
 </p>
 
 <div align="center">
   <b>💻 Software Developer at Sobat Teknologi</b><br>
   <i>Building Fullstack, Mobile & AI Solutions</i>
 </div>
+
+<p align="center">
+  Software developer focused on building reliable, end-to-end products —<br>
+  from clean backends and databases to polished web and mobile interfaces.
+</p>
 
 <br>
 
@@ -34,8 +40,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-<h2>🛠️ Tech Stack</h2>
+<br>
 
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -82,28 +89,38 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
     </td>
   </tr>
+  <tr>
+    <td align="right"><b>Tools & Workflow</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    </td>
+  </tr>
 </table>
 
-</div>
+## 🌟 What I'm Focused On
 
-## 🌟 Currently
+<i>Currently working as a Software Developer at <b>Sobat Teknologi</b> — building real-world products across the stack while exploring machine learning and emerging technologies.</i>
 
-💻 **Software Developer Driven by Innovation**
+<table>
+  <tr>
+    <td align="center" width="25%">🌐<br><b>Fullstack</b><br><sub>End-to-end web apps,<br>database to UI</sub></td>
+    <td align="center" width="25%">📱<br><b>Mobile</b><br><sub>Mobile experiences<br>with React Native</sub></td>
+    <td align="center" width="25%">🤖<br><b>AI / ML</b><br><sub>Machine learning to<br>solve real problems</sub></td>
+    <td align="center" width="25%">🚀<br><b>Future-Ready</b><br><sub>Modern tools shipped<br>to production</sub></td>
+  </tr>
+</table>
 
-Currently working as a Software Developer at **Sobat Teknologi**, building real-world products across the stack while staying passionate about emerging technologies and machine learning. Day to day, I'm focused on:
+## ✨ 2026 Goal
 
-- 🌐 **Fullstack Development**: Building end-to-end web apps from database to UI
-- 📱 **Mobile Development**: Crafting mobile experiences with React Native
-- 🤖 **AI Development**: Exploring machine learning to solve complex problems
-- 🚀 **Future-Focused**: Leveraging next-generation technologies in production
+<img src="https://img.shields.io/badge/🎯_Become_a-Fullstack_Engineer-00ADB5?style=for-the-badge&labelColor=1a1b27" alt="2026 Goal"/>
 
-### 2026 Goals ✨
+## 🤝 Connect With Me
 
-- [ ] Become a Fullstack Engineer
-
-<h2>🤝 Connect With Me</h2>
-
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/rianidstiantii/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -112,10 +129,8 @@ Currently working as a Software Developer at **Sobat Teknologi**, building real-
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&animation=fadeIn" width="100%" alt="Footer"/>
-</div>
+---
 
 <div align="center">
-  <b>💫 Learning, coding, and growing every day!</b>
+  <b>💫 Thanks for visiting — learning, coding, and growing every day!</b>
 </div>
