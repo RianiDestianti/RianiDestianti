@@ -1,10 +1,9 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello!+I'm+Riani+</>;Exploring+The+World+Of+Coding" alt="Animated Heading" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1500&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Mobile+App+Development+Enthusiast;Backend+Development+Explorer;Learning+Full+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1500&color=00ADB5&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Development;Mobile+Development;AI+Development" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,8 +11,8 @@
 </p>
 
 <div align="center">
-  <b>📚 Software Engineering Student at SMKN 11 Bandung</b><br>
-  <i>Crafting Mobile Experiences with Flutter & Kotlin</i>
+  <b>💻 Software Developer at Sobat Teknologi</b><br>
+  <i>Building Fullstack, Mobile & AI Solutions</i>
 </div>
 
 <br>
@@ -57,24 +56,32 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Slim_PHP-3776AB?style=for-the-badge&logo=slim&logoColor=white" alt="Slim PHP"/>
+</div>
+
 ## 🌟 Currently
 
-🌐 **Tech Enthusiast Driven by Innovation**
+💻 **Software Developer Driven by Innovation**
 
-Passionate about emerging technologies and the transformative potential of machine learning. Constantly exploring cutting-edge developments in:
+Currently working as a Software Developer at **Sobat Teknologi**, building real-world products across the stack while staying passionate about emerging technologies and machine learning. Day to day, I'm focused on:
 
-- 🤖 **Machine Learning**: Fascinated by AI's ability to solve complex problems
-- 💡 **Emerging Tech Trends**: Staying ahead of the curve in technological innovations
-- 🧠 **Adaptive Learning**: Rapidly integrating new technological paradigms
-- 🚀 **Future-Focused**: Committed to understanding and leveraging next-generation technologies
+- 🌐 **Fullstack Development**: Building end-to-end web apps from database to UI
+- 📱 **Mobile Development**: Crafting mobile experiences with Flutter & Kotlin
+- 🤖 **AI Development**: Exploring machine learning to solve complex problems
+- 🚀 **Future-Focused**: Leveraging next-generation technologies in production
 
 ### 2025 Goals ✨
 
-- [ ] Getting into Machine Learning
-- [x] Code. Debug. Repeat – every day (In Progress!)
-- [x] Learn React (In Progress!)
-- [x] Learning programming languages every day (In Progress!)
-- [ ] Participated in many training and competency program
+- [ ] Become a Fullstack Engineer
 
 <h2>🤝 Connect With Me</h2>
 
@@ -88,9 +95,7 @@ Passionate about emerging technologies and the transformative potential of machi
 </p>
 
 <div align="center">
-  <b>💫 Learning, coding, and growing every daAy!</b>
+  <b>💫 Learning, coding, and growing every day!</b>
 </div>
 
 ---
-
-
