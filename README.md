@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RianiDestianti&theme=tokyo-night&bg_color=1a1b27&color=00ADB5&line=00ADB5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/00ADB5/RianiDestianti" alt="Contribution Graph" width="90%"/>
 </div>
 
 <h2>🛠️ Tech Stack</h2>
