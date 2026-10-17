@@ -127,9 +127,5 @@ Currently working as a Software Developer at **Sobat Teknologi**, building real-
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&animation=fadeIn" width="100%" alt="Footer"/>
-</div>
-
-<div align="center">
   <b>💫 Learning, coding, and growing every day!</b>
 </div>
