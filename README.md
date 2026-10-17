@@ -100,6 +100,12 @@
   </tr>
 </table>
 
+<h2>📊 Top Languages</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianiDestianti&layout=compact&langs_count=8&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
+</div>
+
 ## 🌟 Currently
 
 💻 **Software Developer Driven by Innovation**
@@ -114,6 +120,16 @@ Currently working as a Software Developer at **Sobat Teknologi**, building real-
 ### 2026 Goals ✨
 
 - [ ] Become a Fullstack Engineer
+
+<h2>💭 Dev Quote</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>"Logic will run after feelings are killed"</b></td>
+    </tr>
+  </table>
+</div>
 
 <h2>🤝 Connect With Me</h2>
 
