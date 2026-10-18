@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <b>💻 Software Developer at Sobat Teknologi</b><br>
+  <b>💻 Fullstack Developer at Sobat Teknologi</b><br>
   <i>Building Fullstack, Mobile & AI Solutions</i>
 </div>
 
